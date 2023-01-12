@@ -1,0 +1,92 @@
+[
+  {
+    "name": "Spaghetti Bologne",
+    "description": "Spagetti with tomato soes",
+    "price": "30000",
+    "imgUrl": "https://cdn1-production-images-kly.akamaized.net/L8KJpwE3FknHNtbemdXa-OVVWPY=/1748x0:5493x3745/1200x900/filters:quality(75):strip_icc():format(jpeg)/kly-media-production/medias/3048436/original/030475400_1581499756-shutterstock_413580649.jpg",
+    "userId" : 1,
+    "categoryId" : 8
+  },
+    {
+      "name": "Mie Indomie",
+      "description": "mie terenak di galaxy",
+      "price": "7000",
+      "imgUrl": "https://statik.tempo.co/data/2018/01/29/id_680428/680428_720.jpg",
+      "userId" : 1,
+      "categoryId" : 8
+    },
+    {
+      "name": "Mie Indomie Aceh",
+      "description": "mie terenak di galaxy",
+      "price": "7000",
+      "imgUrl": "https://statik.tempo.co/data/2018/01/29/id_680428/680428_720.jpg",
+      "userId" : 1,
+      "categoryId" : 8
+    },
+    {
+      "name": "Toppokki",
+      "description": "Khas korea asli",
+      "price": "7000",
+      "imgUrl": "http://usaharumahan.id/wp-content/uploads/2019/06/cara-membuat-toppoki-pedas-1200x813.jpeg",
+      "userId" : 1,
+      "categoryId" : 1
+    },
+    {
+      "name": "Toppokki",
+      "description": "Khas korea asli",
+      "price": "12000",
+      "imgUrl": "http://usaharumahan.id/wp-content/uploads/2019/06/cara-membuat-toppoki-pedas-1200x813.jpeg",
+      "userId" : 1,
+      "categoryId" : 1
+    },
+    {
+      "name": "Salad",
+      "description": "Salad daon",
+      "price": "12000",
+      "imgUrl": "https://images.immediate.co.uk/production/volatile/sites/30/2014/05/Epic-summer-salad-hub-2646e6e.jpg",
+      "userId" : 1,
+      "categoryId" : 2
+    },
+    {
+      "name": "Grilled meat",
+      "description": "Delicious meat",
+      "price": "50000",
+      "imgUrl": "https://hips.hearstapps.com/hmg-prod/images/grilled-chicken-horizontal-1532030541.jpg",
+      "userId" : 1,
+      "categoryId" : 3
+    },
+    {
+      "name": "Fish Food",
+      "description": "Fresh fish from ocean",
+      "price": "50000",
+      "imgUrl": "https://thumbs.dreamstime.com/b/grilled-sea-fish-lemon-stone-slate-background-close-up-grilled-sea-fish-lemon-stone-slate-background-close-up-133652870.jpg",
+      "userId" : 1,
+      "categoryId" : 4
+    },
+    {
+      "name": "Sweet Cake",
+      "description": "Cake with very good flavour",
+      "price": "50000",
+      "imgUrl": "https://p4.wallpaperbetter.com/wallpaper/583/30/393/berries-cake-cake-caramel-hd-wallpaper-preview.jpg",
+      "userId" : 1,
+      "categoryId" : 5
+    },
+    {
+      "name": "Soup vegetable ",
+      "description": "Soup with potato",
+      "price": "50000",
+      "imgUrl": "https://media.istockphoto.com/photos/hot-homemade-corn-chowder-picture-id494154858?b=1&k=20&m=494154858&s=612x612&w=0&h=16lBZeV7bSrUEMKY2VO87mdBCckkPmZ6IVS8NOKgoVU=",
+      "userId" : 1,
+      "categoryId" : 6
+    },
+  
+    {
+      "name": "Chocolate",
+      "description": "Choco with nuts",
+      "price": "20000",
+      "imgUrl": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fstatic.onecms.io%2Fwp-content%2Fuploads%2Fsites%2F44%2F2019%2F08%2F26230823%2F3884300.jpg",
+      "userId" : 1,
+      "categoryId" : 7
+    }
+   
+  ]

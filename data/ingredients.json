@@ -1,0 +1,201 @@
+[
+    {
+      "name": "salt",
+      "foodId": 1
+    
+    },
+    {
+      "name": "egg",
+      "foodId": 1
+    },
+    {
+      "name": "sugar",
+      "foodId": 1
+    },
+    {
+      "name": "saos",
+      "foodId": 1
+    },
+    {
+      "name": "tepung",
+      "foodId": 1
+    },
+    {
+      "name": "margarine",
+      "foodId": 1
+    },
+    {
+      "name": "salt",
+      "foodId":2
+    
+    },
+    {
+      "name": "egg",
+      "foodId":2
+    },
+    {
+      "name": "sugar",
+      "foodId":2
+    },
+    {
+      "name": "saos",
+      "foodId":2
+    },
+    {
+      "name": "tepung",
+      "foodId":2
+    },
+    {
+      "name": "margarine",
+      "foodId":2
+    },
+    {
+      "name": "salt",
+      "foodId":3
+    
+    },
+    {
+      "name": "egg",
+      "foodId":3
+    },
+    {
+      "name": "sugar",
+      "foodId":3
+    },
+    {
+      "name": "saos",
+      "foodId":3
+    },
+    {
+      "name": "tepung",
+      "foodId":3
+    },
+    {
+      "name": "margarine",
+      "foodId":3
+    }, {
+      "name": "salt",
+      "foodId":4
+    
+    },
+    {
+      "name": "egg",
+      "foodId":4
+    },
+    {
+      "name": "sugar",
+      "foodId":4
+    },
+    {
+      "name": "saos",
+      "foodId":4
+    },
+    {
+      "name": "tepung",
+      "foodId":4
+    },
+    {
+      "name": "margarine",
+      "foodId":4
+    },
+    {
+      "name": "salt",
+      "foodId":5
+    
+    },
+    {
+      "name": "egg",
+      "foodId":5
+    },
+    {
+      "name": "sugar",
+      "foodId":5
+    },
+    {
+      "name": "saos",
+      "foodId":5
+    },
+    {
+      "name": "tepung",
+      "foodId":5
+    },
+    {
+      "name": "margarine",
+      "foodId":5
+    },
+    {
+      "name": "salt",
+      "foodId":6
+    
+    },
+    {
+      "name": "egg",
+      "foodId":6
+    },
+    {
+      "name": "sugar",
+      "foodId":6
+    },
+    {
+      "name": "saos",
+      "foodId":6
+    },
+    {
+      "name": "tepung",
+      "foodId":6
+    },
+    {
+      "name": "margarine",
+      "foodId":6
+    },
+    {
+      "name": "salt",
+      "foodId":7
+    
+    },
+    {
+      "name": "egg",
+      "foodId":7
+    },
+    {
+      "name": "sugar",
+      "foodId":7
+    },
+    {
+      "name": "saos",
+      "foodId":7
+    },
+    {
+      "name": "tepung",
+      "foodId":7
+    },
+    {
+      "name": "margarine",
+      "foodId":7
+    },
+    {
+      "name": "salt",
+      "foodId":8
+    
+    },
+    {
+      "name": "egg",
+      "foodId":8
+    },
+    {
+      "name": "sugar",
+      "foodId":8
+    },
+    {
+      "name": "saos",
+      "foodId":8
+    },
+    {
+      "name": "tepung",
+      "foodId":8
+    },
+    {
+      "name": "margarine",
+      "foodId":8
+    }
+  ]

@@ -1,0 +1,88 @@
+{
+  "foods": [
+    {
+      "name": "Mie Indomie",
+      "description": "mie terenak di galaxy",
+      "price": "3100",
+      "imgUrl": "https://statik.tempo.co/data/2018/01/29/id_680428/680428_720.jpg",
+      "id": 1
+    }
+  ],
+  "users": [
+    {
+      "email": "admin@mail.com",
+      "password": "12345",
+      "role": "Admin",
+      "phoneNumber": "08123131312",
+      "address": "jl2",
+      "id": 1
+    },
+    {
+      "email": "ahmad@gmail.com",
+      "password": "12345",
+      "role": "Admin",
+      "phoneNumber": "123456",
+      "address": "asdsad",
+      "id": 2
+    },
+    {
+      "email": "admin@mail.com",
+      "password": "12345",
+      "role": "Admin",
+      "phoneNumber": "0851682141421",
+      "address": "Jl. Komp. Poris Blok D8 No.5, RT.008/RW.018, Jatirahayu, Kec. Pd. Melati, Kota Bks, Jawa Barat 17414",
+      "id": 3
+    }
+  ],
+  "categories": [
+    {
+      "name": "Instant food",
+      "id": 1
+    },
+    {
+      "name": "Vegetable food",
+      "id": 2
+    },
+    {
+      "name": "Meat",
+      "id": 3
+    },
+    {
+      "name": "Fish",
+      "id": 4
+    },
+    {
+      "name": "Dessert",
+      "id": 5
+    },
+    {
+      "name": "Soup",
+      "id": 9
+    },
+    {
+      "name": "Nuts",
+      "id": 10
+    },
+    {
+      "name": "Noodle",
+      "id": 11
+    }
+  ],
+  "ingredients": [
+    {
+      "name": "onion",
+      "foodId": 1,
+      "id": 1
+    },
+    {
+      "name": "salt",
+      "foodId": 1,
+      "id": 2
+    },
+    {
+      "name": "sugar",
+      "foodId": 1,
+      "id": 3
+    }
+  ]
+}
